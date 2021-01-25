@@ -1,5 +1,5 @@
-### Hi, I'm June su 👋
-📫 Step forward, step by step.
+<p align="center">### Hi, I'm June su 👋</p>
+<p align="center">📫 Step forward, step by step.</p>
 
 <h3 align="center">Teck Stack.</h3>
 <p align="center"> 
@@ -19,7 +19,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> 
   </a> 
 </p>
-<h3 style="padding-top:100px;" align="center">Design Tool Stack.</h3>
+<h3 style="padding-top:400px;" align="center">Design Tool Stack.</h3>
 <p align="center"> 
   <a href="https://www.photoshop.com/en" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> 
